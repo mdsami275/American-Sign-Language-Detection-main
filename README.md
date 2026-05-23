@@ -50,7 +50,7 @@ By default, when you launch app.py, the inference mode is active. It can also be
 1. Clone the Repository:
 
 ```
-git clone https://github.com/AkramOM606/American-Sign-Language-Detection.git
+git clone https://github.com/mdsami275/American-Sign-Language-Detection.git
 cd American-Sign-Language-Detection
 ```
 
